@@ -1,1 +1,1 @@
- ls, echo, cat
+ git init, git checkout, git branch
