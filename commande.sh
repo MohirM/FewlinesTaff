@@ -1,1 +1,3 @@
- ls, echo, cat
+ ls
+ echo "hello"
+ cat README.txt
